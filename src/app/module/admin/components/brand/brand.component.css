@@ -2,7 +2,6 @@
 .admin-container .container {
     border-radius: 6px;
     box-shadow: 2px 3px 8px 1px #b6b6b6;
-    /* box-shadow: 2px 3px 8px 1px #1f1f1f; */
     padding: 40px 30px;
     background: rgba(255, 255, 255, 0.071);
     border-radius: 16px;
@@ -51,9 +50,6 @@
     background: #94056c;
 }
 
-/* .admin-container .admin-body{
-    padding: 0 30px 0 0;
-} */
 .admin-container .admin-body table thead tr{
     border-bottom: 1px solid #8c8c8c;
     border-top: 1px solid #8c8c8c;

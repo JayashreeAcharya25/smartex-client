@@ -68,9 +68,6 @@
   font-family: 'Jost', sans-serif;
 }
 
-
-/* About Us Section */
-
 .two .slide-two {
   height: 100vh;
   display: flex;
@@ -138,7 +135,6 @@
 }
 .two .slide-two .section:nth-child(2){
   width: 30%;
-  /* background: #333; */
   background: linear-gradient(rgba(235,235,235,0.9),rgba(235,235,235,0.9)),
       url('../../../../../assets/about-section-1.jpeg');
   background-size: cover;
@@ -176,9 +172,6 @@
 .two .slide-two .section img:hover{
   transform: scale(.95);
 }
-
-
-/* Product Section */
 
 .three .slide-three,
 .four .slide-four,
@@ -305,8 +298,6 @@
   color: #9c9c9c
 }
 
-
-
 .five .slide-five .container{
   width: 70%;
   margin: auto 0;
@@ -355,9 +346,6 @@
   font-size: 14px;
   color: #999;
 }
-
-
-/* Contact Section */
 
 .six .slide-six{
   height: 100vh;
