@@ -1,1 +1,1 @@
-web: npm run
+web: node dist/smartex/index.html
